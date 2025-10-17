@@ -1,4 +1,4 @@
-# VS Code Performance Optimizer Extension
+# VS Code Performance Optimizer
 
 ## Overview
 
