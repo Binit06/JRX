@@ -2,7 +2,7 @@
   "name": "jrx",
   "displayName": "JRX",
   "description": "Optimise VS Code to run on low RAM and Storage",
-  "version": "0.12.2",
+  "version": "0.12.3",
   "featureFlags": {
     "usingNewPythonInterpreterPathApi": true,
     "usingNewPythonInterpreterPathApiV2": true
